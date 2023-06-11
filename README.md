@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Pathak</h1>
 <h3 align="center">DevOps Engineer focused on automation and cloud technologies for efficiency.</h3>
+<img aligin="right" alt="Scripting" width="400" src="https://drive.google.com/file/d/12iranZInqqzp1Zk6m-uOLjDREmLZ1_9G/view">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpathak-devops&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
