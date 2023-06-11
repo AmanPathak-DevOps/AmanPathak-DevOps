@@ -33,7 +33,7 @@
 <a href="https://instagram.com/pathak_sahab07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/pathak_sahab07" height="30" width="40" /></a>
 <a href="https://hashnode.com/@amandevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@amandevops" height="30" width="40" /></a>
 <a href="https://medium.com/@aman.pathak_51134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aman.pathak_51134" height="30" width="40" /></a>
-<a href="/https://dev.to/feed/@amandevops, https://medium.com/feed/@aman.pathak_51134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dev.to/feed/https://hashnode.com/@amandevops, https://medium.com/feed/@aman.pathak_51134" height="30" width="40" /></a>
+<a href="/https://medium.com/feed/@amandevops, https://medium.com/feed/@aman.pathak_51134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dev.to/feed/https://hashnode.com/@amandevops, https://medium.com/feed/@aman.pathak_51134" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
