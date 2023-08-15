@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
 
-- 📫 How to reach me **aman07pathak@gmail.com**
+- 📫 How to reach me **aman.pathk23@gmail.com**
 
 - ⚡ Fun fact **I am Extrovert**
 
