@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 📝 I regularly write articles on [https://medium.com/@aman.pathak_51134](https://medium.com/@aman.pathak_51134)
+- 📝 I regularly write articles on [https://medium.com/@aman.pathak_51134](https://medium.com/@aman-pathak-devops)
 
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
 
