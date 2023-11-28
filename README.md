@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/aman-devops](https://www.linkedin.com/in/aman-devops)
 
 ### Blogs posts
-<a href="https://medium.com/@aman-pathak-devops" target="_blank">https://medium.com/@aman.pathak_51134</a> 
+<a href="https://medium.com/@aman-pathak-devops" target="_blank">Aman Pathak On Medium</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
