@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kubernetes**
 
-- 📝 I regularly write articles on [https://medium.com/@aman.pathak_51134](https://medium.com/@aman-pathak-devops)
+- 📝 I regularly write articles on [https://amanpathakdevops.medium.com](https://amanpathakdevops.medium.com)
 
 - 💬 Ask me about **DevOps, Cloud Computing (AWS, Microsoft Azure), Kubernetes, Python, Linux System Administration, Git, Docker, Terraform, Jenkins, Ansible, Bash Scripting, Cybersecurity, Web Services, MongoDB, MySQL, SQL, React.js, HTML, CSS, Java, C++, Data Structures, C (Programming Language)**
 
@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/aman-devops](https://www.linkedin.com/in/aman-devops)
 
 ### Blogs posts
-<a href="https://medium.com/@aman-pathak-devops" target="_blank">Aman Pathak On Medium</a> 
+<a href="https://amanpathakdevops.medium.com" target="_blank">Aman Pathak On Medium</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +29,7 @@
 <a href="https://fb.com/amanpathakofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/amanpathakofficial" height="30" width="40" /></a>
 <a href="https://instagram.com/pathak_sahab07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/pathak_sahab07" height="30" width="40" /></a>
 <a href="https://hashnode.com/@amandevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@amandevops" height="30" width="40" /></a>
-<a href="https://medium.com/@aman-pathak-devops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aman.pathak_51134" height="30" width="40" /></a>
+<a href="https://amanpathakdevops.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aman.pathak_51134" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
