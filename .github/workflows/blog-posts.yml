@@ -1,0 +1,14 @@
+name: Latest Medium Blogs
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://amanpathakdevops.medium.com/feed"
+          max_post_count: 5
