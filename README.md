@@ -148,5 +148,5 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 ---
 
-📫 Reach me at **aman.pathakbz@gmail.com**
+📫 Reach me at **aman.pathakbz@gmail.com**<br>
 ⚡ Fun fact: I am an extrovert who enjoys solving real production problems
