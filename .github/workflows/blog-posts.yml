@@ -1,14 +1,25 @@
 name: Latest Medium Blogs
+
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README with latest Medium blogs
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://amanpathakdevops.medium.com/feed"
+          feed_list: https://amanpathakdevops.medium.com/feed
           max_post_count: 5
+          readme_path: README.md
+          commit_message: "docs: update latest Medium blog posts"
