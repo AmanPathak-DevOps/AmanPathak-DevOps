@@ -14,7 +14,7 @@ Senior DevOps & Cloud Engineer | Automating Infrastructure | Operating Reliable 
 
 ---
 
-## 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
 I am a DevOps & Cloud Engineer with strong experience designing, automating, and operating production-grade cloud and Kubernetes platforms.
 My focus is on **scalability, reliability, security, and automation** across the delivery lifecycle.
