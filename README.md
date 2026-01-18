@@ -105,6 +105,8 @@ My focus is on **scalability, reliability, security, and automation** across the
 - 👥 **Learn together on Discord**: https://discord.gg/jdzF8kTtw2
 - 📞 **1:1 guidance, mentorship, DevOps consulting & freelancing projects**:
   https://topmate.io/aman_pathak10
+- 🎥 **DevOps & Cloud content on YouTube**:
+  https://www.youtube.com/@aman-pathak
 
 ---
 
@@ -121,6 +123,8 @@ My focus is on **scalability, reliability, security, and automation** across the
 <a href="https://www.linkedin.com/in/aman-devops"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/amanpathak.devops"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://amanpathakdevops.medium.com"><img src="https://cdn.simpleicons.org/medium/000000" width="48" height="48" /></a>
+<a href="https://www.youtube.com/@aman-pathak"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="48" height="48" /></a>
+</p>
 
 ---
 
@@ -128,17 +132,21 @@ My focus is on **scalability, reliability, security, and automation** across the
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=amanpathak-devops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpathak-devops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
+
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanpathak-devops&theme=tokyonight" />
 </p>
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpathak-devops&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-📫 Reach me at **aman.pathakbz@gmail.com**<br>
+📫 Reach me at **aman.pathakbz@gmail.com**
 ⚡ Fun fact: I am an extrovert who enjoys solving real production problems
