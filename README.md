@@ -89,11 +89,11 @@ My focus is on **scalability, reliability, security, and automation** across the
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Kubernetes + Datadog APM Setup in 10 Minutes: Monitor Your Cluster Like a Pro](https://blog.stackademic.com/kubernetes-datadog-apm-setup-in-10-minutes-monitor-your-cluster-like-a-pro-b98c60de879f?source=rss-9ae0fed1d713------2)
 - [How to Speed Up Docker Builds with BuildKit](https://medium.com/codetodeploy/how-to-speed-up-docker-builds-with-buildkit-f4c9cc040282?source=rss-9ae0fed1d713------2)
 - [End-to-End DevOps AWS ECS Production-Ready Project](https://medium.com/codetodeploy/-d21ebd90bad6?source=rss-9ae0fed1d713------2)
 - [Production Story: Kubernetes Pods Stuck in Pending on EKS? It Wasn’t CPU or Memory](https://aws.plainenglish.io/production-story-kubernetes-pods-stuck-in-pending-on-eks-it-wasnt-cpu-or-memory-0453a7206f67?source=rss-9ae0fed1d713------2)
 - [How I Troubleshoot Databases When My Application Suddenly Gets Slow](https://medium.com/codetodeploy/how-i-troubleshoot-databases-when-my-application-suddenly-gets-slow-737171acdc99?source=rss-9ae0fed1d713------2)
-- [How to Upgrade a Kubernetes Cluster Upgrade in a Production Environment with Zero Downtime: Things…](https://blog.stackademic.com/kubernetes-cluster-upgrade-on-on-prem-things-i-learned-the-hard-way-0f08682db65b?source=rss-9ae0fed1d713------2)
 <!-- BLOG-POST-LIST:END -->
 
 📚 More articles: https://amanpathakdevops.medium.com
