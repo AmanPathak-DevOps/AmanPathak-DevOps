@@ -89,7 +89,7 @@ My focus is on **scalability, reliability, security, and automation** across the
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon S3 Files Explained: How to Mount S3 as a File System on EC2 &lpar;Step-by-Step Guide&rpar;](https://amanpathakdevops.medium.com/amazon-s3-files-explained-how-to-mount-s3-as-a-file-system-on-ec2-step-by-step-guide-42532ee07c88?source=rss-9ae0fed1d713------2)
+- [Amazon S3 Files Explained: How to Mount S3 as a File System on EC2 &lpar;Step-by-Step Guide&rpar;](https://aws.plainenglish.io/amazon-s3-files-explained-how-to-mount-s3-as-a-file-system-on-ec2-step-by-step-guide-42532ee07c88?source=rss-9ae0fed1d713------2)
 - [Day 01 of MLOps: Understanding Machine Learning Fundamentals](https://medium.com/codetodeploy/day-01-of-mlops-understanding-machine-learning-fundamentals-e4f4e944dee7?source=rss-9ae0fed1d713------2)
 - [Kubernetes + Datadog APM Setup in 10 Minutes: Monitor Your Cluster Like a Pro](https://blog.stackademic.com/kubernetes-datadog-apm-setup-in-10-minutes-monitor-your-cluster-like-a-pro-b98c60de879f?source=rss-9ae0fed1d713------2)
 - [How to Speed Up Docker Builds with BuildKit](https://medium.com/codetodeploy/how-to-speed-up-docker-builds-with-buildkit-f4c9cc040282?source=rss-9ae0fed1d713------2)
