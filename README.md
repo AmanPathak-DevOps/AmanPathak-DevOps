@@ -89,11 +89,11 @@ My focus is on **scalability, reliability, security, and automation** across the
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 04 of MLOps: Deploy and Serve a Machine Learning Model Using Docker and Flask](https://amanpathakdevops.medium.com/day-04-of-mlops-deploy-and-serve-a-machine-learning-model-using-docker-and-flask-7bfaf4aadccc?source=rss-9ae0fed1d713------2)
-- [Day 03 of MLOps: Build and Train a Machine Learning Model Using Python and GitHub Actions](https://medium.com/codetodeploy/day-03-of-mlops-build-and-train-a-machine-learning-model-using-python-and-github-actions-938d73cd22d0?source=rss-9ae0fed1d713------2)
-- [Day 02 of MLOps: Understanding MLOps Lifecycle, DevOps vs MLOps, and Real-World Workflow](https://medium.com/codetodeploy/day-02-of-mlops-understanding-mlops-lifecycle-devops-vs-mlops-and-real-world-workflow-574fd044fe2b?source=rss-9ae0fed1d713------2)
-- [Amazon S3 Files Explained: How to Mount S3 as a File System on EC2 &lpar;Step-by-Step Guide&rpar;](https://medium.com/codetodeploy/amazon-s3-files-explained-how-to-mount-s3-as-a-file-system-on-ec2-step-by-step-guide-42532ee07c88?source=rss-9ae0fed1d713------2)
-- [Day 01 of MLOps: Understanding Machine Learning Fundamentals](https://medium.com/codetodeploy/day-01-of-mlops-understanding-machine-learning-fundamentals-e4f4e944dee7?source=rss-9ae0fed1d713------2)
+- [Day 09 of MLOps: From Localhost to Production-Ready ML Deployment on AWS](https://medium.com/codetodeploy/day-09-of-mlops-from-localhost-to-production-ready-ml-deployment-on-aws-737f78cedc56?source=rss-9ae0fed1d713------2)
+- [Day 08 of MLOps: Before Kubernetes, Every ML Engineer Should Do This First](https://medium.com/codetodeploy/day-08-of-mlops-before-kubernetes-every-ml-engineer-should-do-this-first-66354b780949?source=rss-9ae0fed1d713------2)
+- [Day 07 of MLOps: Hands-On Experiment Tracking for Machine Learning Models](https://medium.com/codetodeploy/day-07-of-mlops-hands-on-experiment-tracking-for-machine-learning-models-1649148a815b?source=rss-9ae0fed1d713------2)
+- [Day 06 of MLOps: Setting Up Production-Grade MLflow for Experiment Tracking](https://medium.com/codetodeploy/day-06-of-mlops-setting-up-production-grade-mlflow-for-experiment-tracking-4f646f0a02f7?source=rss-9ae0fed1d713------2)
+- [Day 05 of MLOps: Data Versioning with DVC, Git, and Amazon S3](https://medium.com/codetodeploy/day-05-of-mlops-data-versioning-with-dvc-git-and-amazon-s3-eb2e79c2e77f?source=rss-9ae0fed1d713------2)
 <!-- BLOG-POST-LIST:END -->
 
 📚 More articles: https://amanpathakdevops.medium.com
