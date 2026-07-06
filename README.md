@@ -89,11 +89,11 @@ My focus is on **scalability, reliability, security, and automation** across the
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 11 of MLOps: Deploy Machine Learning Models on Kubernetes Using KServe](https://amanpathakdevops.medium.com/day-11-of-mlops-deploy-machine-learning-models-on-kubernetes-using-kserve-e5b8f637b242?source=rss-9ae0fed1d713------2)
+- [What happens when your GitHub Actions AI reviewer trusts a malicious pull request?](https://blog.gopenai.com/what-happens-when-your-github-actions-ai-reviewer-trusts-a-malicious-pull-request-656f4d3baaab?source=rss-9ae0fed1d713------2)
 - [Day 10 of MLOps: Deploying ML Models on AWS EKS with Docker, Kubernetes, and Traefik](https://medium.com/codetodeploy/day-10-of-mlops-deploying-ml-models-on-aws-eks-with-docker-kubernetes-and-traefik-296346f5c941?source=rss-9ae0fed1d713------2)
 - [Day 09 of MLOps: From Localhost to Production-Ready ML Deployment on AWS](https://medium.com/codetodeploy/day-09-of-mlops-from-localhost-to-production-ready-ml-deployment-on-aws-737f78cedc56?source=rss-9ae0fed1d713------2)
 - [Day 08 of MLOps: Before Kubernetes, Every ML Engineer Should Do This First](https://medium.com/codetodeploy/day-08-of-mlops-before-kubernetes-every-ml-engineer-should-do-this-first-66354b780949?source=rss-9ae0fed1d713------2)
-- [Day 07 of MLOps: Hands-On Experiment Tracking for Machine Learning Models](https://medium.com/codetodeploy/day-07-of-mlops-hands-on-experiment-tracking-for-machine-learning-models-1649148a815b?source=rss-9ae0fed1d713------2)
-- [Day 06 of MLOps: Setting Up Production-Grade MLflow for Experiment Tracking](https://medium.com/codetodeploy/day-06-of-mlops-setting-up-production-grade-mlflow-for-experiment-tracking-4f646f0a02f7?source=rss-9ae0fed1d713------2)
 <!-- BLOG-POST-LIST:END -->
 
 📚 More articles: https://amanpathakdevops.medium.com
